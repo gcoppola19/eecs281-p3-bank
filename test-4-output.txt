@@ -1,0 +1,31 @@
+User grace logged in.
+Failed to log out susie.
+Failed to log out grace.
+User grace logged out.
+User susie logged in.
+User grace logged in.
+Transaction placed at 101112233: $1 from susie to grace at 102112233.
+Select a time less than three days in the future.
+Sender brittney does not exist.
+Recipient brittney does not exist.
+At the time of execution, sender and/or recipient have not registered.
+At the time of execution, sender and/or recipient have not registered.
+Sender kanye is not logged in.
+Transaction executed at 102112233: $1 from susie to grace.
+Transaction placed at 108112244: $20 from susie to grace at 108112245.
+Fraudulent transaction detected, aborting request.
+Transaction executed at 108112245: $20 from susie to grace.
+Transaction placed at 110112233: $1 from grace to susie at 110122233.
+Transaction executed at 110122233: $1 from grace to susie.
+Transaction placed at 10110112233: $20 from grace to susie at 10110122234.
+Transaction executed at 10110122234: $20 from grace to susie.
+User kristina does not exist.
+Customer grace account summary:
+Balance: $3980
+Total # of transactions: 4
+Incoming 2:
+0: susie sent 1 dollar to grace at 102112233.
+1: susie sent 20 dollars to grace at 108112245.
+Outgoing 2:
+2: grace sent 1 dollar to susie at 110122233.
+3: grace sent 20 dollars to susie at 10110122234.

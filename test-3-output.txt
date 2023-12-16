@@ -1,0 +1,17 @@
+User grace logged in.
+User jessica logged in.
+User lily logged in.
+User susie logged in.
+Transaction placed at 80301402234: $1000 from grace to lily at 80303402234.
+Transaction placed at 80301602269: $200 from lily to grace at 80303402290.
+Transaction placed at 80301602269: $50000 from susie to grace at 80303402290.
+Transaction executed at 80303402234: $1000 from grace to lily.
+Transaction executed at 80303402290: $200 from lily to grace.
+Insufficient funds to process transaction 2.
+Transaction placed at 100502202020: $450 from jessica to grace at 100503402290.
+User grace logged out.
+User jessica logged out.
+User lily logged out.
+User susie logged out.
+Transaction executed at 100503402290: $450 from jessica to grace.
+There were 0 transactions that were placed between time 80301402236 to 80301402236.

@@ -1,0 +1,22 @@
+User grace logged in.
+Failed to log in grace.
+Failed to log in wednesday.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Select a time less than three days in the future.
+Transaction placed at 80301402234: $2000 from grace to lily at 80302402234.
+Failed to log out grace.
+User grace logged out.
+Transaction executed at 80302402234: $2000 from grace to lily.
+0: grace sent 2000 dollars to lily at 80302402234.
+There was 1 transaction that was placed between time 80301402236 to 90301402234.
+281Bank has collected 20 dollars in fees over 20 months 5 days 71 hours 39 minutes 98 seconds.
+Customer grace account summary:
+Balance: $37990
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+0: grace sent 2000 dollars to lily at 80302402234.
+Summary of [80302000000, 80303000000):
+0: grace sent 2000 dollars to lily at 80302402234.
+There was a total of 1 transaction, 281Bank has collected 20 dollars in fees.

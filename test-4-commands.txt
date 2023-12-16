@@ -1,0 +1,32 @@
+#testing
+login grace 123456 234.12
+#doesnt have an active session
+out susie 234.12
+#ip doesnt match
+out grace 234.22
+out grace 234.12
+login susie 000000 233.32.11
+login grace 123456 123.23.45
+#less than 3 days
+place 00:01:01:11:22:33 233.32.11 susie grace 1 00:01:02:11:22:33 s
+#greater than 3 days
+place 00:01:01:11:22:33 233.32.11 susie grace 50 00:01:05:11:22:33 s
+#sender doesnt exist
+place 00:01:01:11:22:33 234.12 brittney grace 50 00:01:02:11:22:33 o
+#recipient doesnt exist
+place 00:01:01:11:22:33 233.32.11 susie brittney 50 00:01:02:11:22:33 o
+#sender registered after execution date
+place 00:01:05:11:22:33 234.12 jen grace 50 00:01:06:11:22:33 o
+#recipient registered after execution date 
+place 00:01:05:11:22:33 123.23.45 grace jade 50 00:01:06:11:22:33 o
+#sender is not logged in 
+place 00:01:08:11:22:33 234.12 kanye grace 50 00:01:08:12:22:33 s
+place 00:01:08:11:22:44 233.32.11 susie grace 20 00:01:08:11:22:45 s
+#ip doesnt match ip 
+place 00:01:09:11:22:33 234.12 grace susie 50 00:01:09:12:22:33 s
+place 00:01:10:11:22:33 123.23.45 grace susie 1 00:01:10:12:22:33 s
+place 01:01:10:11:22:33 123.23.45 grace susie 20 01:01:10:12:22:34 s
+$$$
+h kristina
+h grace
+

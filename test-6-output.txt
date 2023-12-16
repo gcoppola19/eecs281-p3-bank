@@ -1,0 +1,46 @@
+User grace logged in.
+Transaction placed at 0: $50 from grace to jade at 1.
+Transaction executed at 1: $50 from grace to jade.
+Transaction placed at 10000100000: $50 from grace to jade at 10000100001.
+Transaction executed at 10000100001: $50 from grace to jade.
+Transaction placed at 20000100000: $50 from grace to jade at 20000100001.
+Transaction executed at 20000100001: $50 from grace to jade.
+Transaction placed at 30000100000: $50 from grace to jade at 30000100001.
+Transaction executed at 30000100001: $50 from grace to jade.
+Transaction placed at 40000100000: $50 from grace to jade at 40000100001.
+Transaction executed at 40000100001: $50 from grace to jade.
+Transaction placed at 50000100000: $50 from grace to jade at 50000100001.
+Transaction executed at 50000100001: $50 from grace to jade.
+Transaction placed at 60000100000: $50 from grace to jade at 60000100001.
+Transaction executed at 60000100001: $50 from grace to jade.
+Transaction placed at 70000100000: $50 from grace to jade at 70000100001.
+Transaction executed at 70000100001: $50 from grace to jade.
+Transaction placed at 80000100000: $50 from grace to jade at 80000100001.
+Transaction executed at 80000100001: $50 from grace to jade.
+Transaction placed at 90000100000: $50 from grace to jade at 90000100001.
+Transaction executed at 90000100001: $50 from grace to jade.
+Transaction placed at 100000100000: $50 from grace to jade at 100000100001.
+Transaction executed at 100000100001: $50 from grace to jade.
+Transaction placed at 110000100000: $50 from grace to jade at 110000100001.
+Transaction executed at 110000100001: $50 from grace to jade.
+0: grace sent 50 dollars to jade at 1.
+There was 1 transaction that was placed between time 1 to 10000.
+0: grace sent 50 dollars to jade at 1.
+There was 1 transaction that was placed between time 0 to 1000000.
+281Bank has collected 10 dollars in fees over 99 minutes 99 seconds.
+281Bank has collected 0 dollars in fees over 9 days 90 hours 99 seconds.
+Customer grace account summary:
+Balance: $399342
+Total # of transactions: 12
+Incoming 0:
+Outgoing 12:
+2: grace sent 50 dollars to jade at 20000100001.
+3: grace sent 50 dollars to jade at 30000100001.
+4: grace sent 50 dollars to jade at 40000100001.
+5: grace sent 50 dollars to jade at 50000100001.
+6: grace sent 50 dollars to jade at 60000100001.
+7: grace sent 50 dollars to jade at 70000100001.
+8: grace sent 50 dollars to jade at 80000100001.
+9: grace sent 50 dollars to jade at 90000100001.
+10: grace sent 50 dollars to jade at 100000100001.
+11: grace sent 50 dollars to jade at 110000100001.

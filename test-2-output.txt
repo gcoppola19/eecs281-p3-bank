@@ -1,0 +1,44 @@
+User grace logged in.
+User jessica logged in.
+User lily logged in.
+User susie logged in.
+Transaction placed at 80301402234: $1000 from grace to lily at 80303402234.
+Transaction placed at 80301602269: $200 from lily to grace at 80303402290.
+Transaction placed at 80301602269: $50000 from susie to grace at 80303402290.
+Transaction executed at 80303402234: $1000 from grace to lily.
+Transaction executed at 80303402290: $200 from lily to grace.
+Transaction executed at 80303402290: $50000 from susie to grace.
+Transaction placed at 100502202020: $450 from jessica to grace at 100503402290.
+User grace logged out.
+User jessica logged out.
+User lily logged out.
+User susie logged out.
+Transaction executed at 100503402290: $450 from jessica to grace.
+Customer lily account summary:
+Balance: $200793
+Total # of transactions: 2
+Incoming 1:
+0: grace to lily at 80303402234.
+Outgoing 1:
+1: lily to grace at 80303402290.
+Customer susie account summary:
+Balance: $149550
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+2: susie to grace at 80303402290.
+Customer grace account summary:
+Balance: $449644
+Total # of transactions: 4
+Incoming 3:
+1: lily to grace at 80303402290.
+2: susie to grace at 80303402290.
+3: jessica to grace at 100503402290.
+Outgoing 1:
+0: grace to lily at 80303402234.
+Customer jessica account summary:
+Balance: $299548
+Total # of transactions: 1
+Incoming 0:
+Outgoing 1:
+3: jessica to grace at 100503402290.

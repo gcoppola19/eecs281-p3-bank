@@ -1,0 +1,24 @@
+#testing
+login grace 080111 231.43.171.61
+login jessica 654321 244.39.222.11
+login lily 494949 123.45.678.90
+login susie 123123 222.33.444.55
+#fee is 10$
+place 08:03:01:40:22:34 231.43.171.61 grace lily 1000 08:03:03:40:22:34 s
+#fee is 10$
+place 08:03:01:60:22:69 123.45.678.90 lily grace 200  08:03:03:40:22:90 o
+#fee is $450 and placed at same time
+place 08:03:01:60:22:69 222.33.444.55 susie grace 50000  08:03:03:40:22:90 o
+#member at bank for over 5 years
+place 10:05:02:20:20:20 244.39.222.11 jessica grace 450  10:05:03:40:22:90 s
+out grace 231.43.171.61
+out jessica 244.39.222.11
+out lily 123.45.678.90
+out susie 222.33.444.55
+# The operations section ends with $$$, followed by the queries (if any).
+$$$
+h lily
+h susie 
+h grace
+h jessica 
+
